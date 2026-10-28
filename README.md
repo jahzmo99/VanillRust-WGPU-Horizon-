@@ -1,4 +1,6 @@
-# VanillRust-WGPU Shaders (Horizon Engine)
+
+#VanillRust-WGPU Shaders (Horizon Engine)
+
 The first-ever native WGSL/HLSL shader pack built from scratch for the Minecraft Java rewrite in Rust — Horizon.
 
 ✨ Current Features (v1.5.0)
@@ -10,8 +12,9 @@ The first-ever native WGSL/HLSL shader pack built from scratch for the Minecraft
 • Quality: For discrete GPUs (RTX/RX) with maximized volumetric steps.
 
 📦 How to Install
-1. Download the .hshader file and place it in horizon-launcher/versions/v?.?.??/shaderpacks.
+1. Download the .hshader file and place it in /horizon-launcher/versions/v?.?.??/shaderpacks.
 2. Enable VanillRust-WGPU in game via Horizon Settings > Shader Packs.
+3. Enjoy
 
 👥 Credits / Authors:
 • Claude (Anthropic AI) — WebGPU/WGSL code refactoring and optimization.
