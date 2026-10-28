@@ -1,5 +1,5 @@
 
-#VanillRust-WGPU Shaders (Horizon Engine)
+# VanillRust-WGPU Shaders (Horizon Engine)
 
 The first-ever native WGSL/HLSL shader pack built from scratch for the Minecraft Java rewrite in Rust — Horizon.
 
