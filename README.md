@@ -2,7 +2,7 @@
 The first-ever native WGSL/HLSL shader pack built from scratch for the Minecraft Java rewrite in Rust — Horizon.
 
 ⚠️ WARNING (v1.5.0)
-• This is an EARLY UNSTABLE ALPHA release. It may cause client crashes, memory leaks (VRAM), and high load on low-end devices.
+• This is an EARLY UNSTABLE ALPHA release. It may cause client crashes, memory leaks (VRAM), shadow rendering issues and high load on low-end devices.
 • IMPORTANT BUG: Due to leftover code from the early port attempt, this shader will still display as "Photon Lite (Horizon)" inside the game's shader menu! This will be fixed in the next version.
 
 ✨ Current Features (v1.5.0)
