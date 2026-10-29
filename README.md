@@ -23,7 +23,7 @@ Compatibility note: This pack targets a specific version of Horizon's shader imp
 ---
 
 ### 📸 Settings & Hardware Benchmark And Gameplay (My low-end laptop Intel Core i5-6200U, Intel HD Graphics 520, 8GB RAM DDR3-2133Mhz at Single-Channel)👇
-Settings (12 Chunks, Simulation: 5 Chunks, VSync: OFF, Fullscreen 1080p, Biome Blend: OFF, Smooth Lighting: ON, Clouds: OFF, Particles: Minimal, Mipmap Levels: 4, Entity Shadows: ON, Entity Distance: 50%, See-Through Leaves: ON, Weather Effect Radius: 3 Blocks, LOD Distance: OFF, Far Detail: FULL, Cave Culling: ON, Entity Culling: OFF, Chunk Updates: 2 per frame, Sky: ON, Fog: OFF, Weather: ON, Resolution Scale: 100%, Anti-Aliasing: OFF, Graphics API: Vulkan):<br>
+`Settings (12 Chunks, Simulation: 5 Chunks, VSync: OFF, Fullscreen 1080p, Biome Blend: OFF, Smooth Lighting: ON, Clouds: OFF, Particles: Minimal, Mipmap Levels: 4, Entity Shadows: ON, Entity Distance: 50%, See-Through Leaves: ON, Weather Effect Radius: 3 Blocks, LOD Distance: OFF, Far Detail: FULL, Cave Culling: ON, Entity Culling: OFF, Chunk Updates: 2 per frame, Sky: ON, Fog: OFF, Weather: ON, Resolution Scale: 100%, Anti-Aliasing: OFF, Graphics API: Vulkan)`<br>
 <img width="1920" height="1080" alt="settings2" src="https://github.com/user-attachments/assets/7b8e23aa-5298-40db-bc73-797aaa1a13d2" /><br>
 <details>
 <summary><b>Click to view Full Settings Screenshots (5 images)</b></summary>
